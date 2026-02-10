@@ -1,0 +1,12 @@
+# Datasets
+blur_dataset/
+data/
+datasets/
+*.csv
+
+# Large files
+*.zip
+
+# Python junk
+__pycache__/
+.ipynb_checkpoints/
